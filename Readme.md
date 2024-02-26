@@ -30,6 +30,7 @@ The website is deployed using Surge at the following link: [HeadSet Podcast](htt
 4. Commit your changes with descriptive commit messages.
 5. Push your changes to your forked repository.
 6. Submit a pull request to the main repository.
+<!--
 
 ## Contributors
 
@@ -37,4 +38,4 @@ The website is deployed using Surge at the following link: [HeadSet Podcast](htt
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). -->
